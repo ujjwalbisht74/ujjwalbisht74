@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/teche74">
+<a href="https://github.com/ujjwalbisht74">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=700&height=80&lines=Ujjwal+Bisht;Tech +Enthusiast+%7C+Grad+Student+%7C+Computer+Engineering+Understudies;Maschine+Learning+%7C+Data+Science+%7C+Web+Devlopment" alt="Typing SVG" />
 </a>
 <br/>
@@ -21,8 +21,8 @@
 <br/> 
 
 <!--
-<a href="(https://github.com/teche74)">
-    <img src="https://github-stats-alpha.vercel.app/api?username=teche74&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="(https://github.com/ujjwalbisht74)">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ujjwalbisht74&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 -->
 
@@ -46,20 +46,20 @@
 
 |Title | Stars | Technologies |
 |--|--|--|
-| [Housing Buenos Aries](https://github.com/teche74/WorldQuant_Housing_in_Buenos_Aries) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WorldQuant_Housing_in_Buenos_Aries?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Earthquake Prediction Nepal](https://github.com/teche74/Earthquake_Prediction_Nepal) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Earthquake_Prediction_Nepal?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Air_Quality_Index_Prediction](https://github.com/teche74/Air_Quality_Index_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Air_Quality_Index_Prediction?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Stock Prediction](https://github.com/teche74/ARIMA-Modeling-for-Stock-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/ARIMA-Modeling-for-Stock-Prediction?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+| [Housing Buenos Aries](https://github.com/ujjwalbisht74/WorldQuant_Housing_in_Buenos_Aries) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/WorldQuant_Housing_in_Buenos_Aries?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Earthquake Prediction Nepal](https://github.com/ujjwalbisht74/Earthquake_Prediction_Nepal) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/Earthquake_Prediction_Nepal?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Air_Quality_Index_Prediction](https://github.com/ujjwalbisht74/Air_Quality_Index_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/Air_Quality_Index_Prediction?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Stock Prediction](https://github.com/ujjwalbisht74/ARIMA-Modeling-for-Stock-Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/ARIMA-Modeling-for-Stock-Prediction?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
 
 </td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Poland Bankrupty](https://github.com/teche74/Poland_Bankrupty) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Poland_Bankrupty?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [USA Customer Segmentation](https://github.com/teche74/Customer_Segmentation_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Quora QuestionPair EDA](https://github.com/teche74/Quora_Dataset_EDA) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
-| [Youtube Trend Analysis](https://github.com/teche74/YT_TrendingVideos_Analysis_Using_R) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/YT_TrendingVideos_Analysis_Using_R?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
-| [Wine Quality Analysis](https://github.com/teche74/WhiteWine_Quality_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/WhiteWine_Quality_Prediction?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+| [Poland Bankrupty](https://github.com/ujjwalbisht74/Poland_Bankrupty) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/Poland_Bankrupty?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [USA Customer Segmentation](https://github.com/ujjwalbisht74/Customer_Segmentation_USA) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Quora QuestionPair EDA](https://github.com/ujjwalbisht74/Quora_Dataset_EDA) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/Quora_Dataset_EDA?style=flat-circle&labelColor=orange"/> | ![Python](https://img.shields.io/badge/Python-package%2Fv%2F%3Auser%2F%3Arepo?logo=Python&logoColor=green&labelColor=blue&color=orange)|
+| [Youtube Trend Analysis](https://github.com/ujjwalbisht74/YT_TrendingVideos_Analysis_Using_R) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/YT_TrendingVideos_Analysis_Using_R?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
+| [Wine Quality Analysis](https://github.com/ujjwalbisht74/WhiteWine_Quality_Prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/WhiteWine_Quality_Prediction?style=flat-circle&labelColor=orange"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?logo=R&logoColor=rgba&labelColor=blue&color=orange)|
 
 </td></tr> </table>
 
@@ -74,7 +74,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Chat_with_Your_Own_Books ](https://github.com/teche74/Chat_with_Your_Own_Books) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/Chat_with_Your_Own_Books?style=flat-circle&labelColor=red"/> |![Langchain](https://github.com/teche74/teche74/assets/129526047/2ab41d79-3658-48c7-8bf1-7096cfa1d066) ![Streamlit](https://github.com/teche74/teche74/assets/129526047/6ff725a1-3b0a-4bb0-ab8a-93ab62589bf1)  ![Qdrant](https://github.com/teche74/teche74/assets/129526047/3515b954-cacf-4d08-8cde-0f90befae38e) |
+| [Chat_with_Your_Own_Books ](https://github.com/ujjwalbisht74/Chat_with_Your_Own_Books) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/Chat_with_Your_Own_Books?style=flat-circle&labelColor=red"/> |![Langchain](https://github.com/ujjwalbisht74/ujjwalbisht74/assets/129526047/2ab41d79-3658-48c7-8bf1-7096cfa1d066) ![Streamlit](https://github.com/ujjwalbisht74/ujjwalbisht74/assets/129526047/6ff725a1-3b0a-4bb0-ab8a-93ab62589bf1)  ![Qdrant](https://github.com/ujjwalbisht74/ujjwalbisht74/assets/129526047/3515b954-cacf-4d08-8cde-0f90befae38e) |
  
 </td></tr> </table>
 
@@ -86,16 +86,16 @@
 
 |Language |  stars | Stack |  
 |--|--|--|
-| [PYTHON](https://github.com/teche74/) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
-| [R LANGUAGE](https://github.com/teche74/R_language_Guide) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
-| [SQL](https://github.com/teche74/SQL_Playground) | <img alt="Stars" src="https://img.shields.io/github/stars/teche74/SQL_Playground?style=flat-circle&labelColor=red"/> | ![SQL](https://img.shields.io/badge/sql-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=Oracle&logoColor=blue&labelColor=black&color=red)|
+| [PYTHON](https://github.com/ujjwalbisht74/) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/?style=flat-circle&labelColor=red"/> | ![Python](https://img.shields.io/badge/python-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=python&logoColor=green&labelColor=black&color=red)|
+| [R LANGUAGE](https://github.com/ujjwalbisht74/R_language_Guide) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/?style=flat-circle&labelColor=red"/> | ![R](https://img.shields.io/badge/R-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=R&logoColor=blue&label=R%20Studio&labelColor=black&color=red)|
+| [SQL](https://github.com/ujjwalbisht74/SQL_Playground) | <img alt="Stars" src="https://img.shields.io/github/stars/ujjwalbisht74/SQL_Playground?style=flat-circle&labelColor=red"/> | ![SQL](https://img.shields.io/badge/sql-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logo=Oracle&logoColor=blue&labelColor=black&color=red)|
 
 </td><td>
 
 |Books  | Language|
 |--|--|
-| [Data Structure and Algorithm in C](https://github.com/teche74/My_Tech_Library/blob/main/Book_Data_Structure_And_Algorithms_In_C.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
-| [Practical C Programming](https://github.com/teche74/My_Tech_Library/blob/main/O%20Reilly%20-%20Practical%20C%20Programming%2C%203rd%20Edition.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
+| [Data Structure and Algorithm in C](https://github.com/ujjwalbisht74/My_Tech_Library/blob/main/Book_Data_Structure_And_Algorithms_In_C.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
+| [Practical C Programming](https://github.com/ujjwalbisht74/My_Tech_Library/blob/main/O%20Reilly%20-%20Practical%20C%20Programming%2C%203rd%20Edition.pdf) | ![C](https://img.shields.io/badge/c-package%2Fv%2F%3Auser%2F%3Arepo?style=for-the-badge&logoColor=White&labelColor=black&color=black)|
 
 </td></tr> </table>
 
@@ -107,10 +107,10 @@
 ## My Github Stats
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teche74&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujjwalbisht74&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teche74&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teche74&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjwalbisht74&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjwalbisht74&theme=dracula)
 
 <br>
 Currently Coding & Listening to:
